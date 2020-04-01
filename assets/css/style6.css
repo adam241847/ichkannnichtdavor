@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "font1";
+    src: url("../fonts/SctoGroteskA-Bold.woff2");
+}
+@font-face {
+    font-family: "font2";
+    src: url("../fonts/SctoGroteskA-Medium.woff2");
+}
+@font-face {
+    font-family: "font3";
+    src: url("../fonts/SctoGroteskA-Regular.woff2")
+}
